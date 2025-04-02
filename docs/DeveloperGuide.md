@@ -242,7 +242,7 @@ _{more aspects and alternatives to be added}_
 
 ### Data archiving
 
-_{Explain here how the data archiving feature will be implemented}_
+The data archiving mechanism is facilitated by 
 
 
 --------------------------------------------------------------------------------------------------------------------
